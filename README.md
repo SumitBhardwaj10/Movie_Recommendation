@@ -15,4 +15,4 @@ It suggests the **Top 5 similar movies** based on a selected title, using a comb
 ---
 
 ## 🖼️ Demo Screenshot
-APP HERE -- [Movie Recommendation]()
+APP HERE -- [Movie Recommendation](https://movierecommendation29.streamlit.app/)
